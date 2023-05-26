@@ -1,0 +1,7 @@
+{
+  "out": "./docs",
+  "name": "cw721-dapp",
+  "theme": "markdown",
+  "readme": "none",
+  "tsconfig": "./tsconfig.bundle.json"
+}

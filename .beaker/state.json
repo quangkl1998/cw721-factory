@@ -1,0 +1,13 @@
+{
+  "euphoria": {
+    "cw721_factory": {
+      "code_id": 833,
+      "addresses": {
+        "Aura_NFT": "aura1zl3aelx8svtvzzcud5lgj38tx8prhdu8vf577j6f9c4kayqrlhuqf0d59e"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
